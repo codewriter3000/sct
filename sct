@@ -1,0 +1,3 @@
+#!/bin/bash
+
+python3 /home/codewriter3000/Coding/sct/main.py "$@"
